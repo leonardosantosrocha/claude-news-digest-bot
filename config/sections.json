@@ -1,0 +1,30 @@
+[
+  {
+    "key": "ai",
+    "title": "Artificial Intelligence",
+    "emoji": "🤖",
+    "query": "artificial intelligence",
+    "limit": 2
+  },
+  {
+    "key": "emerging-tech",
+    "title": "Emerging Technologies",
+    "emoji": "🚀",
+    "query": "emerging technology breakthrough",
+    "limit": 1
+  },
+  {
+    "key": "trends",
+    "title": "New Trends",
+    "emoji": "🌍",
+    "query": "global technology trends",
+    "limit": 1
+  },
+  {
+    "key": "economy",
+    "title": "Economy",
+    "emoji": "💰",
+    "query": "global economy markets",
+    "limit": 1
+  }
+]

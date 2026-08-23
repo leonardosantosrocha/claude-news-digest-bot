@@ -1,0 +1,63 @@
+name: News Digest
+
+on:
+  schedule:
+    # 11:00 UTC = 08:00 em America/Sao_Paulo (UTC-3)
+    - cron: "0 11 * * *"
+
+  workflow_dispatch:
+    inputs:
+      topic:
+        description: "Busca pontual de um tema (vazio = usa as seções configuradas)"
+        required: false
+        default: ""
+      dry_run:
+        description: "Executar sem enviar e-mail nem gravar histórico"
+        type: boolean
+        required: false
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: news-digest
+  cancel-in-progress: false
+
+jobs:
+  news-digest:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Instalar dependências
+        run: pip install -r requirements.txt
+
+      - name: Executar automação
+        env:
+          TOPIC_OVERRIDE: ${{ inputs.topic }}
+          DRY_RUN: ${{ inputs.dry_run || 'false' }}
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
+          EMAIL_TO: ${{ secrets.EMAIL_TO }}
+        run: python -m src.main
+
+      - name: Persistir histórico de envios
+        run: |
+          if git diff --quiet -- data/sent_news.json; then
+            echo "Histórico sem alterações."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/sent_news.json
+          git commit -m "chore: update sent news history"
+          git push
