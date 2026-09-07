@@ -1,55 +1,5 @@
 [
   {
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNN1hDQmIxeHlZNVRzcWlrdUdDdzdwVVdWclVoQVdxOHFodEN3SUhTVlJwOWJDYjJpTGdScHlVU2pFcm5ScGlibHR6eFItQWZOZExIZDNaaHZPcGk4NnVSclkzYjA5VHBHZzJzdzNNNVluaU5uTERPTGY3czJzeDY2NURfaWswWTVFRDh6a3ZOMHM?oc=5",
-    "title": "NVIDIA (NVDA) Faces Price Hike Amid AI Chip Demand",
-    "sent_at": "2026-08-23T20:23:50.453770-03:00"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSnNqWjhpZUJnVkpnM285TlBZMm1JTjRrNlY2QzVVMWY4ajRHN2o1RFpfMllOa3VYSGtYMFNkbFk2REYwb2dhU1UwQ0dSUlIzM0EtZDRjdVlLZ21PSGc4SGp2VkR6MTlRWUthc2dWQUFGX0V6LUZEc1Y1bjhvVDg1WGVraGU3YjN5X3lRUjhCeXd3RTJrVVRieEJFOWh3V3lGUTFQbldnMThGMy1zNGtFR0NpbkVtczFoQTVv?oc=5",
-    "title": "Apollo Economist Says AI Affecting Wages More Than Employment",
-    "sent_at": "2026-08-23T20:23:50.453770-03:00"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQalRXaXZLQW55ekk4RGVlU1k3dUQ4bmZwbnVZdHZEb2ctcGh5Z3RJalZuZVM5d0swaWpyMG5TN2k4X2xBTmdHZU5iQTd1RWtyaUE3U0hDRlF6NU03TEVTZlRVcEtUaWRxSkRhZFJjWDJPRVdMQThWVldWQ0VUQzhPOUZDdXJNU0xNakFRMHFxZW5GQlZwUk5vb042a3otX3EwUmFqNlMzazVXcFlKMGtsZzJSV09nWmMzTF9n?oc=5",
-    "title": "China Dominates Robot Olympics, Showcasing Rapid Robotics Advancement",
-    "sent_at": "2026-08-23T20:23:50.453770-03:00"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9hRE4wMmtmckY1UnI4U2d0RzZrV2gwSklOYXVUOEJ6bUo4M21ZaEpfXzFHc2VlN05MZDJpOUc5dV9PcVBxNVpjZFNiZk94S241TUkwWTh0Z0JfOGhodzljQ2dEN1NCQQ?oc=5",
-    "title": "Top 85 World Trends in August: From AI Destination Assistants to Immersive Cruise…",
-    "sent_at": "2026-08-23T20:23:50.453770-03:00"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORkxpWW4zR0FzYXZWZTJCcGprWkZSSnNtblRIbV9CRFluYjhXZEtEaVUtanE1YVBCUTR1a1loUzU4Q0Z5M251M190bjhwV3pENHBpOVJneFhBczlEaEloVy1kSE43LWM1cGxObDU3VE5ZaGtjV1Q4cjBFZktkWVpncDEyZmt4cDItRUxwVzJETWxCSzIySHhXTnJpa1l2MXdGaXdRYVNfTFZkMWdsMEZ0OG9fci1DMmJvTUhLM0tB?oc=5",
-    "title": "Jumpy bond markets make it clear: Trump risks driving US into debt crisis | Heather Stewart",
-    "sent_at": "2026-08-23T20:23:50.453770-03:00"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTGxLY0hNekFoUTF5dkNsenlSd0hSU3NVdDRfQnd5X3dpLU1PLWlxckx6RngyR1pOMXFiTFRYbmJkTGNGZFp5NWRENDdwZEJsTFZ5eGl1MXpONzYyNEJWdWZuSTRmc081ZXl4R25ac01kaHFEaGd5QktDd1k0SnNFR3ZkVzczRnFkdlJReHZCdmV1ZlFhMmJQZGlSZDBTZC1mc2JlZVNUVnZHdlFKZUJWVnpTY1JDSlpoM1NLbVo1MGRUdHgxOVVv?oc=5",
-    "title": "AI Power Demand Could Surge 1,100% By 2033 - Constellation Energy (NASDAQ:CEG)",
-    "sent_at": "2026-08-24T08:28:10.804812-03:00"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSmd3ZlEwNXY0QklIbHJaTTdVT3RXb05sUHd5LU9PUndOZ3lvUl9uanY2TEgybEdVQktkNFVFYjBUeVlSTEYyLU9DV29YeDc2VVp4V0Q0Nmk3VFVXczJPS21laDBvZG1YMXd5czNzenFjaUlnZ0I4ZVpFeEJrd1JHRUR4YkxaTDdCdjZCN0tDSlBxVkJYeDFTZVdYS2ZuajZlV3RFYnRsUEk5ZnJ2VnU1QTVMSnpFb2NrYVZ2LWhwSVVES0ZKLTJpVk1oRnRXWXRS?oc=5",
-    "title": "Anti-Data-Center Fever Sweeps America, Stalling Construction",
-    "sent_at": "2026-08-24T08:28:10.804812-03:00"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNT3l2NXBtcnNjWFc2WGpodEhBTUk0aUIzUXhkdWdDU01CRUM4aTdNWFJNb0NBZ1BXUVFzeHlvek10SEVNYTU5aTMtUGZXUXdWdUF4b0lzcTVaZWhKaTBmVHBSNE9FSXJZQ0huWGs5Zm5fODNMcjVXQWlPU0lsMGdHQlRyMkxxLUdTRTl2cTZESVY1Skp6VFVoeXVLOGpYdWF4V09UV0FhRUVlczZUQTdza2pwb1lWWU40X2ZNNEFfamRTeVVpUXhkTmln?oc=5",
-    "title": "TCS and Rolls-Royce achieve breakthrough in hydrogen-powered aviation",
-    "sent_at": "2026-08-24T08:28:10.804812-03:00"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORnRnTFJmZGY4VW5NdWR2cTVuZ1lnZ2pvbUtJTEVJV1ZsSE1BX1RKVktORmRQT2ZiVzFUUFp3UGJqT2pmUWRwWHo4d3FHTWRKUkZ3OEZfWFB4UllYR09ESVpjMjQ1RXdSNlBzS1RHeURJTy1jbklyQUZTYlJtNC00U1FiREhkRVlSSThka2hmb3BOTHNsVFhncHFaY1hHNGRLOXZTWA?oc=5",
-    "title": "Gartner Forecasts Worldwide Semiconductor Revenue to Reach $1.6 Trillion in 2026",
-    "sent_at": "2026-08-24T08:28:10.804812-03:00"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcDZDaHc0d0ItWXRVRVh6cTQzWmY2MmVReFRNc2dxS0NpTWNsVEhLV2czX25zMUJzNWcxU0RVUkNpNU5jYUxXcXJzSHFaMGhWMWlTbEloMHgxbTV3MFRTMXdvTExFLXVybGNOTVVUWDlhR3B0VHh1UTF1aDBUTW91aEVuNjNzWHg4alRBaG1VY3dHc1BXTEk4WHlGbGZLazFFOTVZ?oc=5",
-    "title": "Global Markets Brace for Inflation, AI and Policy Signals",
-    "sent_at": "2026-08-24T08:28:10.804812-03:00"
-  },
-  {
     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYTJjQWtwZl96QnZuLWJWUHRSVmVEekpxWk9KR083cm84QUFaX3h3VVNMWE54SkZjSUVtSnh0Wi1XOTJxQVJZMUFtaTNuTXhyZnVqV2hNXzk1d2JCMWhKbE16WnR5Tk1CdWpCXzIzd0p1Q0tsZEcwYjVkNU0zVVNxU0dVSnBJS0k?oc=5",
     "title": "US building twice as much gas-fired capacity as China in AI boom, analysis finds",
     "sent_at": "2026-08-25T08:27:00.501723-03:00"
@@ -348,5 +298,30 @@
     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ONXRzdlcxd1dDMTVZcnpSVzQtNFIxUmtIWFp2RjhJMjhDbDgxcmlySWZMZTktZmtKVHVrZHJHMFJvaDdUUGgyUDlocTJpck1oMUJkYlZMRnV2TmNiNGd5YjVTMUY5WlVCZU9UclNKTnZiYzBSajZn?oc=5",
     "title": "IMF Flags Four Key Risks Weighing on Global Economy",
     "sent_at": "2026-09-06T10:57:40.719001-03:00"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSmZCUU11Tm9jNjFpa3lHNmxDb1h3NHFCemtYZFVLbEtGNEhySXZKZW9hZjhQUWlVRDA0UG1tR0NacC1SMnNwU3JrLWs5QjZNSGZiSGRuTldaQ0lUN3k0bGp0ZndJZm5aV2c4VVI1M3hIaFdQZmFUMWxneFJqN0pEb2FEb3lXN1oya0VGdnNR?oc=5",
+    "title": "Robots take to Warsaw Streets to Protest Unchecked AI",
+    "sent_at": "2026-09-07T13:17:32.850991-03:00"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdFB2blFFQU9kMW1aZjJSRVFxVVZlSllBZzNiZWpYRXh2eUNCUUVIZlItUGFyOHNCNzJQczJZSmVKM1poc0lEZDNONjB5VG52RnhtSVlhQlgxUFZXSUJzOER1TWJEUkRnSk1KbWx1WExLUXJ5dVpKaTlvNDM2ZzVHdmU0Yk9OcGdwMTV4bUgzU0Z3b0hNenNuOWF2bUl1SHk2SkhubHdMa0pwcXM1ZU5QTmQ1Ry1YTzR6Sldz?oc=5",
+    "title": "Architect of UK’s AI policy quits after Anthropic conflict of interest concerns",
+    "sent_at": "2026-09-07T13:17:32.850991-03:00"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBmSW5DNHFhd01XYm44U2hsTzlqUkpZVWE0R1gxeTE5QWFGWW5DOVlWVkM1WmVfQkduWi1qdFJxeEkzTl8wLXN4bjhYakdWUVM2bHQ2cmw0dmNHVHBRVHdN?oc=5",
+    "title": "US Air Force Flies AI-Controlled F-16 in Autonomy Breakthrough",
+    "sent_at": "2026-09-07T13:17:32.850991-03:00"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxV2FoYnFlb1JwdkkxYVh4RFdleTROcmI1MnQwV2Vlb3l3Uk1MQUtQd1c2Ri1US2FFdW9iX3VGdmJVakRkdzY2YTRiQWp6RDlNV05MZnpod3NkQQ?oc=5",
+    "title": "OpenAI chief scientist warns no-one is prepared for consequences of AI",
+    "sent_at": "2026-09-07T13:17:32.850991-03:00"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1IR212eG9SQmNkNU5TeTlBV0RJY3l6aWd0a2RWMnBKWjkxcWNJYlB3azNad1FrWm1JMVFvVWdTVU1uaF9YdXpvZHdEYlAtOHJ0cWF4ZERNMzhQeUZuTFFoUE45MGZRR0k?oc=5",
+    "title": "Three ways the Iran war changed the global economy",
+    "sent_at": "2026-09-07T13:17:32.850991-03:00"
   }
 ]
