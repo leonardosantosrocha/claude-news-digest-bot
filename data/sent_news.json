@@ -1,30 +1,5 @@
 [
   {
-    "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQVkpBdFlPVC1CN1JTQW4yRWVhMy1OaXpPaTMtLXNHSVN1Rm95dGxDNV92cGREVm5fQVZCTTJheF91Zzg3dXJ0dDJad2VLMlYwRXJrYWQySllqUjBadGc4TVgwNURWNTZBUnZwYUN1MlhaVEstZzhiVlI4cXJuTEhaaXFrRExIQzhQZVNpQlo2RkxtYnJ6NkZXQ1pRakZnUnNsOEN1QjBRdXkxWTltNHBWRDlFQVludHljM2hPcmhvbVVUR0o5bVpTX0FubVRJQVYwcmZrcHFueV9VQjM5RGt3OHB0b2Z6aGFKaERGSlZ5b1UzRU43QVFJZVpSRHZBY21vU2ln?oc=5",
-    "title": "Anthropic says Claude Fable 5.1 ‘sets a new standard for coding, knowledge work, and long-running problem-solving tasks’",
-    "sent_at": "2026-09-02T11:58:42.691935-03:00"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORDFRa3ljNm9MSkZkNTdRZmJuX3V2SWg2eUFDOWhqclVjUVB1TlY3bDhlT0xlU1JvZGpINkFLUHZvZGF0WWpCWTU1eE9LcGtqLWFhMWFhdG1XWlNrMnNmN1NKMExLUG9mMkQ4WGFBVW1FOW9rcjBkVjJFNnRJV1ItR3c3MFRzbGN3QWx2NTRfTUxxWlUwMHBTdkhlVkVicmFHVV9zaHlubl8?oc=5",
-    "title": "New York City Public Schools banning AI use through middle school starting this year",
-    "sent_at": "2026-09-02T11:58:42.691935-03:00"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUE95YTgxSVdVQjhfdEwtSnNiSmNpZ2Z0M0hmUE1YYWxuaWNxUGpmVnhlZUFUanVnSUtMVk02dGpmdVR3cXFRUW5pX3VpWWZ1SmFrQ1JiSmZ6bHdvak5hUHpCemcxWFEyaGxUNWRObU5XQVd6cnZaV0VjMnJqR0o1VzZMdi04YUpWY05mb1ZDcUNtNmVIV29CV1Vn?oc=5",
-    "title": "Qualcomm and KAUST Sign Agreement to Advance 6G, Edge AI and Physical AI",
-    "sent_at": "2026-09-02T11:58:42.691935-03:00"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE81MS1Ocms1SEpmMURWQ01KSXdzRkF0SnB6R1pUdmkzRllsYjdxTldtWGlrdW9PSVZFYnE4RU5MWTBXTE1JVkZUdE9JOFNWNjluTkREX3VfNE93WW5rSnh3czNR?oc=5",
-    "title": "GT Voice: Geopolitics can’t give US the AI open-source ecosystem it seeks",
-    "sent_at": "2026-09-02T11:58:42.691935-03:00"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSkJqeC1yeWhxa0NETU9oT1R3YUdoYm9fNE4zamM3MlhJTUFkZ3gwWDliZmFZRHpXaEFOLW1JMHN4dEhkTTlfY282eG9yWlJZRVpaR281SlMtWkpuLTRXYnQ4dkt0VnlwckFQU0JUR21WM2VBZTRYb3VKM0M0Zlg3aF83SUY0WERMb2dWdWlLQ3U2ZmlON1pJdU5WMTdEVUZoNlowM0ZhZDJNeEdFcUE?oc=5",
-    "title": "Bond selloff deepens as oil prices and public debt fears jolt markets",
-    "sent_at": "2026-09-02T11:58:42.691935-03:00"
-  },
-  {
     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTHpzOWFzdTVYaklhcU5oMGVfRGxhRW9IVUdpYVJ2TFl1bFJEZjA4el91V1hncjEtVXY5OG43T2lGalZWZzhUOFFVVzZ4M24zWWg3UkhWMmFicnQ4WWNUdGlmbGtKaTBlRXY1dW9GV1JSZDh6Q3R6b1NCNWhrSk1lUDJ2ek10Y09jamkyWWdJbEdjclpiNF9LbWFwRzNKS1JYa0I4?oc=5",
     "title": "Yes, We’re Entering the Era of Artificial General Intelligence",
     "sent_at": "2026-09-04T11:49:07.925376-03:00"
@@ -323,5 +298,30 @@
     "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPRFBoM2UyX0J2NXZXODEwTzc2OUpfTlJTdlJvUGVsdV9sRldSVVdweGg1OEFaTXJIWjg0TnVyS1cycGhoSEdEODVIaFRjRTZCZ3RJVnVubmZRUEtuS2FaT1FFeGFUSURjblFyQk13OVZITlJVZ2ZKd3BoZzBxcWZObDhMZU1tRjdXbUQ3MlhsUVhlTEhFdm81eGtUMHRILWY0Q09fVnQ3YlFXSzBxS2oyX1hJbmFweDVIUDJaeEY0a2NlNnd3STJPRXhyTkRJLVlTNlkxMGpXLXBxaWtyTzNGcUZRNFZGWlhKQ0kzRUNwNm1LUDVmY1BmVHNDbjlhcHB5U25BemIxNDhWQlJ3VkJpMTJpbkpCRVhvNkgzRlRsTmNjUnRrQTE0?oc=5",
     "title": "The Middle East 'tsunami' threatens to devastate the economy: Diesel prices hit an all-time high, Treasury yields reach highest since 2007 and stock markets plummet",
     "sent_at": "2026-09-15T12:27:13.483403-03:00"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdWlyTTZOc0p6bWNqWW1MdGlWMGNOU1Z0SEpkVWYxM1llUTNVX1ROWXJKMTNSYXNUSUV6VDhYTlRJcjB2SHpXa3dwUy1NN1pKSUEwLXN5bzkzVFgwZTRidjZmdUNjRnE0d3ZfcXh5T1BHM2JfVXpvYVRYdHFmNHdZVUlQNzliV29BVkM0cjdsS2Qtekg3YXJOSi05MkhaQQ?oc=5",
+    "title": "UN chief sounds alarm on AI risk after Trump plays it down",
+    "sent_at": "2026-09-16T12:20:25.858773-03:00"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWHlzQkZTYTR2VnNCaU9wYU5OUURIWWpyWEFuQ2VqRUdMbkdVQkNlSy1IUmhkcURKS3ZiOTBPcVV2V2R0S0pnaEJjek1zQ0ZGeXdQczZWTjhtbHFhNHUySUJEUldOZ2d0TFdJMUVZNHhoMVpSODAxaW5UN1BWTWlFV3lJRmJVVE11S3ZXWld6eHlXOXdQQVVlaE9zOUF1enNiTlZBYWZZRDRvOF83aWlMXzBKNWs4VHpObGc?oc=5",
+    "title": "Fears of AI’s potential to destroy humanity spread from fringe to Washington",
+    "sent_at": "2026-09-16T12:20:25.858773-03:00"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9mUmpLc2hHRmlEWXhxeU1rR01IY256SVhEc2xCYXdodmlROUJsWHd6WUxDQ1doT0ZfaXJ6VGZ6ZEpoUDB2RktWUldlOXJldkhHNzlqZ0o4M1VRZThOMkhJT3BtbmJveGZvaVk4MUhyVE9hdmROZUE?oc=5",
+    "title": "KAIST Solves Power Delivery Challenge for Atom-Thick Semiconductors, Opening New Path for AI Chips",
+    "sent_at": "2026-09-16T12:20:25.858773-03:00"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMl93dDNCTFZkU3JfbjJqd0NVYUM4dGNZdjI3TTNod3hUZTJRWWFlTUxmV3NlUGx3OWppTGpETWVZTTZuLWc2Uld4dEtNSjluRDU5azVDMEItRjRjUWxGV0hqMldDYkpjTjdsTTduNGVrMUJ4SC1MbWdOSGRxQkVLTTNnR1gwZGZVdjEwOTc4SE84N3VqQmhrUG5xazQ4bGtZZGc0S1dsb3Qyb0U?oc=5",
+    "title": "Reshaping operations for a new era of agentic AI transformation: 4 leadership priorities for COOs",
+    "sent_at": "2026-09-16T12:20:25.858773-03:00"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSDJGbHJDOU9LYlVyc0MxTHEzWk0wUE9zWFhNT283R1kyX2RzS1Fselpseno3ajZ1bVh5blFSenlFak5QVVI5T3VDcTZ3MGt3R09iSGZrNjhqYm5rUG8wSVdReE81bG9nSVhJa2dEX2YwZVJSeVBLZDNKQUYzMGs4WkJjRjRiWl9UbjdaU1p2cHNTQVJBa2RNN1lSR2JCTk5xWXJuMG40SFlMMHJiNFJUZHVGaW5SdVlLNkhzMjJ4eHVlOXg3ZnBMUUkwVzc1NTctMFR2SU80cDc1Zw?oc=5",
+    "title": "WTO Warns Weakened Trade Rules Could Cut Global GDP Up To 10% By 2050: 20 outlets compared",
+    "sent_at": "2026-09-16T12:20:25.858773-03:00"
   }
 ]
