@@ -1,30 +1,5 @@
 [
   {
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNUNtV20wYXJQU1RyZGpkOVh6LUFqTDRPY1hDTDhoQzlVZWduQjB2aVR0QzZmYkozX3BLZHVYMDdaV1c5UHhaNktCX0o1UnZCWm81Wjl3TUs0c1I3QXB3Z3NRQW1EZFduejZTLWk3OFBqMFhQNFhTM1d1NEVvbkM4czhqNlhUWlNqRnVvV2FvamxYRTRPTDlPQ2xGOXpac1V2NjkzdUh5U0s5NW9fLUE?oc=5",
-    "title": "AI could kill all humans in next decade, warn experts: but how seriously should we take them?",
-    "sent_at": "2026-09-09T12:01:16.500139-03:00"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUkJBZ2o0YmZnOEpWVk9mT1dmRUFDZmkxbFZBNU9FQy1VWk5YeENDb0U3c080STBTdmFTWVh0aGNjRXZuNnhrU1RseEVPaWpBVkRSbGtJWExBenJwSlJYNkxHNzcwdk1oMzh4bUs0WGFsdGt3cGNRa29jdndoZXJVbkRJOEI5blRoVGN4NTFRLTNlU1J1VWVKOFRfLTRlb0hXMnFzVWlrTG45NVlSVkRSbVVEUFh1eklGWEVJWThpZ09ZUQ?oc=5",
-    "title": "Peter Thiel-Backed AI Startup Cognition Raises Funds at $48 Billion Valuation",
-    "sent_at": "2026-09-09T12:01:16.500139-03:00"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTjFfT3htWFZIR3QwYjRRbmpaQ1l0cF9RRExwSjY0aGs4bFNtVUNVbzkxczZhMjE2eUU1TEVwbnVUQzdydV9BdnpYWGZUTWZkeU1mNE5Xd1BlcGNib3Y3OUt5cEdMcFkxSnhHMTQ2R0w3bG1kdU1aZENyXzBiZ1RhczIwczJqSlRiT2UtSHlyRndrMW01al9vQ1RqY0g?oc=5",
-    "title": "OpenAI Claims Navier–Stokes AI Breakthrough",
-    "sent_at": "2026-09-09T12:01:16.500139-03:00"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZVdZSjE4WmRQamc1REpkUWMxQUhYdXROMmVvM3dnSUpMLU04WlJ5dTlWaW9BeHRnbzdNdnlwMWxjN2hqN0l5Yk5PZVEtTnJIX0dyOWJPcldzaS1NUjVZUXpndkdJYmVrVnFvUEtYYVZ5enRmT1JoX1p2Z21CNXlxaGxscGxXR3B2RGpyMFJDTlpXQVprR1JXWmV6VGhwRFJI?oc=5",
-    "title": "Global dividend record, fuelled by AI, signals maturing tech sector",
-    "sent_at": "2026-09-09T12:01:16.500139-03:00"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUm1WT0VpUVpDNkVXWkVqZFBzOUZtTkd0ZUhESTJWR0xoWDl4ZGVSMnlOckg5TFFkX25rczgxR2FTY19Md3IxVHRYTEpVRW55b1cxcTZJc0VCOXhXUGZ5cDJsdkhqSkRwb0FXaTd6TmpNLXNuTW5EU1pZR1ZwS2k1R09MakV5NGxZcUtKdWV0SXF0UE93RHFzUWVlVmFvdHFUTXhV?oc=5",
-    "title": "Oil Hits $100: U.S. And Houthi Strikes Raise Global Supply Fears",
-    "sent_at": "2026-09-09T12:01:16.500139-03:00"
-  },
-  {
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOFBpUHBCdGgzUnVsT29ueldXNVZsRGdTeUtYM3JjSVl5ZktPOF9zT1hrT0NVamFsSlVlQ0ZGYkljNUFWRkVmVGlRaWdOb3VXSERwRktObmV4U0Y1ZnNVLV9nS2FCVUltV01ubW5peVV5cGZWMGpRSEFVTXEyLUdxSHZlQzNaYWZiMTh2NDlhZ3Q3Nk1MSDBKblhROXhjWWNSZWdZNzNjTTFfazNCQkVRNnV5aGoxSVpw?oc=5",
     "title": "OpenAI not on track to reduce risk of ‘catastrophic’ loss of control, says board member",
     "sent_at": "2026-09-10T11:52:05.946126-03:00"
@@ -323,5 +298,30 @@
     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQTVlZ0dUUWJKcHVFZ2hKNk5uamVjbmtDMWxaVTl6MTV6RURHZ2w2SG9yZklvM1kwZnE2UGJBUFBXa3pidzJZMXBSQjhZVzctNUR1bUJkMzFJNXRuREswRy1Yc0VVR1RHUkl3RWlIWnZNbnhYc3FpOF9ZMzJXNXd6elUzRDdKbmxFN3FQQXJzYkt5V1JZSE9jdkhaalR5ZktRTXJVTUtBN3VsRXd4X0tUeEN3YlR4RTdua2J1WGFsck5kYTdPN2s3cHhCSzdwUTg?oc=5",
     "title": "WEF survey of chief economists shows majority think global economy is stabilising",
     "sent_at": "2026-09-22T12:26:01.462919-03:00"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNM2dndURwaHU3alI2WmI4VGRQTDd4ZjNxdnZZWnRYclZBUmRkX25KaHU1N2tnamtmSTBJWktiazVFMVdUM2RHa2MwTThvWDFCUDlYenJZUjNyZHFKYVNyb1hpLS0wRU0tdnUyMG1aRWlvM2lPZnROWlc5aUE2eFVuN0NWaTM4dVU1RGROZFlkblBmZU9JMVQzQTVhVVUxMGxfVFFESUtFQm1Ed0NoOExkamZ1N2NJZDVFbnI5TDA0Q1hJaVIyY3A5UUNOUTU4T040SWtzY2Exb21sbTkxWEVkcw?oc=5",
+    "title": "Trump and Xi set to meet in Washington as AI safety concerns take center stage",
+    "sent_at": "2026-09-23T12:18:50.977561-03:00"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQkRjWXFRV2VweWd0X1d2ZVctWkoyNWhFNDlWVGYtanQ2RDZVbWRQNS1LU1FucDdyYXlDbUUzWl9Odkczdl9SQVpPMmg5dU5tbjNuLWZkM25aLTY1N2EyLUFSTmRxTEZRSTIwX01uczR6Q0NGcnFfS3lsTGhGNWVTSXZMZFlKa3NhQVlHV2RDU1BjeWZhT1BpeXA2dVo?oc=5",
+    "title": "As the US and China race on AI, the Vatican presses for global safeguards",
+    "sent_at": "2026-09-23T12:18:50.977561-03:00"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOc09hU2liMW5lMHBtV290TlUyNlFlNnpwZGZSNEFOT3loUS1jRm8zQklScC1jN0FwVGhIRWU1dkRNMnVGWm9QTmhuM3VPbGlFZF9BYXRXdjk5Y3p6eTRYcEFNYVBGdTY1enpfSENudzZwck1fOUh5NkwybDBSRmt2U09haXZQMnZmU19tWW1ZczBZZ0VXblU4SXhSSGxwTHh4VzNvbEJXS2RXRlI4MmVyVjUtd25NbzhPaE5GUW1xY3YxeGhlUC0tRGVNczIwSnpYZFdjcDgteW5fYVRZWFNxV2pBNWNzUHBZREJLeg?oc=5",
+    "title": "IonQ Surges 11% as NVIDIA Research Center Deal Follows Error-Decoder Breakthrough; D-Wave Climbs 5%, Rigetti Rises 4%",
+    "sent_at": "2026-09-23T12:18:50.977561-03:00"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBCcVF0TWpnZUFNMnJGMTJNSnhfOXZ2a2E5eGhUdmFFWFJSN0x1UmM1SUY3RUt3bTJtLUpXM0pZVHpNNW1sN3p0TEYxMGh4dUhkelh2VDVPcmJ5eGhrckVadmxB?oc=5",
+    "title": "China’s intelligent computing power projected to soar 87.9% in 2026 as AI demand surges: report",
+    "sent_at": "2026-09-23T12:18:50.977561-03:00"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE96Tmhqal9KazhXcXpyU0lEc2N4SnBZdzhmcmJfOFlldGttMGRZV0R0NVpnWDlNNW94aE0wcEc3UnFnbDZpTGQ4aDN3bXNXOWZwZ0VZYjhR0gFWQVVfeXFMT3pOaGpqX0prOFdxenJTSURzY3hKcFl3OGZyYl84WWV0a20wZFlXRHQ1WmdYOU01b3hoTTBwRzdScWdsNmlMZDhoM3dtc1c5ZnBnRVliOFE?oc=5",
+    "title": "OECD lifts 2026 global growth forecast to 2.9% despite Mideast war",
+    "sent_at": "2026-09-23T12:18:50.977561-03:00"
   }
 ]
