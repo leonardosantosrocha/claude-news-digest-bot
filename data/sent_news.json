@@ -1,30 +1,5 @@
 [
   {
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOFBpUHBCdGgzUnVsT29ueldXNVZsRGdTeUtYM3JjSVl5ZktPOF9zT1hrT0NVamFsSlVlQ0ZGYkljNUFWRkVmVGlRaWdOb3VXSERwRktObmV4U0Y1ZnNVLV9nS2FCVUltV01ubW5peVV5cGZWMGpRSEFVTXEyLUdxSHZlQzNaYWZiMTh2NDlhZ3Q3Nk1MSDBKblhROXhjWWNSZWdZNzNjTTFfazNCQkVRNnV5aGoxSVpw?oc=5",
-    "title": "OpenAI not on track to reduce risk of ‘catastrophic’ loss of control, says board member",
-    "sent_at": "2026-09-10T11:52:05.946126-03:00"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQLWRvMF9uc0JNaTV5dkthSV9KV0tnODBHUUxnbDlOZzJhYk9aZHZvNVhPLTRkQXpvOE1NNkRXN0Niek5kR0Vwc0FzeWJzRFNMVDd1eGh3RWlzc1RKOXZwTmhpQ3lyZWtJR0xqLW55aU5BSGJzM05zVjkwLXZ2YndNcG1JamVDY1kwY3Z3X3h5Q2dScmF4ZUNYX0NPejZZTTI3NE5ld2hSYlJtakVYazlRVXBydExpMDRVMEE?oc=5",
-    "title": "OpenAI changes stance, calls for national artificial intelligence safety rules",
-    "sent_at": "2026-09-10T11:52:05.946126-03:00"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOXJPeE95TFB0a2xKSklPb0R2Yng2VG1LQkNPQl9rejZRZjJnVWV6YTY3NTI5dUlVQzNIckJtMDJ2WjZRRWd3UkxtMTViUUpCSXJLTFVRZklzZ2kzVTdrSWxlZ0dGZk5NZVNnandodkp5UG1JeG8teUxNMEdZR1FPbXVidjR6dw?oc=5",
-    "title": "OpenAI Says It Has Solved a Millennium Prize Problem—a Holy Grail of Math",
-    "sent_at": "2026-09-10T11:52:05.946126-03:00"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQXhIbDVVOXk5MmtYalRGMmhNdDc2Tkh2TjE3LXdOTVk4Yi0yUG05MVdjZnFhc3g4TXRxN2x6V0pMWFdnUmhVZHFodldibHJMVTg1Y2hRc2JDRnJldU80aE4zNkpKMFZtcU8wSTJfZXVxenNjNmZramFVdVdDcG93Vk80ekpXNGRuSVgxSm9IZEF6ZDljWTlFVGN3aV9uYWtINlprLXVyRzhRbk13blFiWFFR?oc=5",
-    "title": "AI and the future of human decision-making",
-    "sent_at": "2026-09-10T11:52:05.946126-03:00"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZjItb0RUMjV4QTB5TlFFN3YxVHFiSmVVQ3o2dzkwVmNsMWZRcHYzaXFiV3hUQnMzYzBjc0tHckdCWVNJTjVheDRrMUhYYVEzeVR6NEFncHd1bTRHODFEOGpSSXk3N01zc2oyMUdTa3BGOEZROHdJLWRDa2NydE93MTFXUzA1bW9fbVQzeDU4NmpvYXhEeFZyQ2F5ejB4SkFQMWxkeTBjNV82NkxhX1JpNGE2aXUxYURhaHI5WU5LU1JxQmx5cmNYRmQ1eXByRlBiZ0hxQWd0bUlYUXM?oc=5",
-    "title": "European Central Bank raises interest rates a quarter point to quell energy-fuelled inflation",
-    "sent_at": "2026-09-10T11:52:05.946126-03:00"
-  },
-  {
     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbWxhUjhHM2s5UHl2N2dNbTJCaGFkZi1qRGNsdVF2NVFBbnZHMjZiSVAzOHI1bmpWajJYRXYtV0EyTXI2QjVBbXA5a1VXcnFIdXg0X3pMOThPOW9fblM1dm9LWDV2M2V1MGRudFR6cy1taHp1UzZOWDhIdnJWQlBlbE1oczJ4ZGx5NnRaMw?oc=5",
     "title": "Bipartisan lawmakers are pushing for AI regulation after an Anthropic researcher's viral extinction warning",
     "sent_at": "2026-09-11T11:51:36.491620-03:00"
@@ -323,5 +298,30 @@
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE96Tmhqal9KazhXcXpyU0lEc2N4SnBZdzhmcmJfOFlldGttMGRZV0R0NVpnWDlNNW94aE0wcEc3UnFnbDZpTGQ4aDN3bXNXOWZwZ0VZYjhR0gFWQVVfeXFMT3pOaGpqX0prOFdxenJTSURzY3hKcFl3OGZyYl84WWV0a20wZFlXRHQ1WmdYOU01b3hoTTBwRzdScWdsNmlMZDhoM3dtc1c5ZnBnRVliOFE?oc=5",
     "title": "OECD lifts 2026 global growth forecast to 2.9% despite Mideast war",
     "sent_at": "2026-09-23T12:18:50.977561-03:00"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOMDl3OG9yeHh1R2kxMHBULUJvcWFVaHA2SnhSbFFqUmJvckZ1V1ZOUTRHcTFRMUhtWUJBY1llbTB2alJPZHZFYnVKMjJ3NXVpU1hQSDZRNWd1UEJZTGtSSmpGb3ItaW1uWGZVWmZ4S2hKZ3cyVGViTnI2WWI5OGQ5aXNWdTVYdVN2R1RaUjZpa0tyel91WE1KMjl5V0lpNF94bmRISEx5SGZzQmhYb3JQejJXb0RaVzBfVUQ3bzlxc2g1cjlMN2VDX216eU1TUQ?oc=5",
+    "title": "Sen. Bernie Sanders and Rep. Greg Casar Introduce “Ban Artificial Superintelligence Act”",
+    "sent_at": "2026-09-24T12:43:05.300078-03:00"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUEx1YzkwWVhOQ25ocmRXYkJ6SWh1Q01wRG1QY096aW9UZkVDbTdNWnoyRWJtcEIwZVVoVEJJUmNpWlhnQVRXTkpzYTg3QzR5OThOS1JXMVc0bnF2dDNXVFU1QnE5bjVpZ2pCUVZwYnZ2bjhUckwwNG02S01MbmY3ckdaRzM5c2Q1c2xmZ05LenBpVEk?oc=5",
+    "title": "Google Is Sending an A.I. Data Center to Outer Space",
+    "sent_at": "2026-09-24T12:43:05.300078-03:00"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcDZRTU1LM1pxZ0tSc2RkbkFnNWRzbWV2WUw5SElqNW1MTG0tbjY4aHBoT2NHNnp6TmNIU0s4aTlZSFhKT1V0OGxQYlVacUg2WDVGR19kREdqQjFZai1fbWJDSXBIQldZd3owUkk3enZoMHVrS3RvcGVzMzhsNzZnMmw3OFdGTFAzNXliVGpubm52cXBUb1F2cTdDOVVtVlJi?oc=5",
+    "title": "Marvell Just Unveiled a 2nm Breakthrough for AI Data Centers",
+    "sent_at": "2026-09-24T12:43:05.300078-03:00"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSmM5MEFYbWNvUHZKVHE3ZlZUcExvdHpPRU5qQWJpSjFubFdWTVdJb1ZfaEpvUkVVb0w0WXdka2FaUGstMWpWR2JOSl9RcGI4ZXpPeXpFWF9ZTklPaWtiaHpBTmlRS1FMeF9ETG9OeEFRekdSSTRidHBZamZRNk13M3RfQzMwS0E5dDJ1M21B?oc=5",
+    "title": "IFR Counts 7,000 Humanoid Robot Sales as Workplace Pilots Stay Small",
+    "sent_at": "2026-09-24T12:43:05.300078-03:00"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAyZkRPZHRDYjVOakplUW5PMVVkdEJha0lyaDV1alBITklFTlgxRDBudFhrQWROWFk0U3RXejZSbUN5QmN6dXFtWXMzbHUxYkRQbTVEZW5vYVl6R3hYOU9rLWMyX0M4WnRUR2Jn?oc=5",
+    "title": "Global Debt Hits $365 Trillion in First Half, Driven by Emerging Markets",
+    "sent_at": "2026-09-24T12:43:05.300078-03:00"
   }
 ]
